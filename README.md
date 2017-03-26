@@ -10,7 +10,7 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7439419/
 Paper 3:Self-driving cars and the law Nathan A. Greenblatt
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7419800/
 
-Paper 4:Self-Driving Cars and the Urban Challenge  Chris Urmson
+Paper 4:Self-Driving Cars and the Urban Challenge Chris Urmson
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4475861/
 
 Paper 5:Issues about autonomous cars Claudiu Pozna
