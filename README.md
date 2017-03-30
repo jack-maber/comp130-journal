@@ -13,7 +13,7 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7419800/
 Paper 4:Self-Driving Cars and the Urban Challenge Chris Urmson
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4475861/
 
-Paper 5:Issues about autonomous cars Claudiu Pozna
+Paper 5:Issues about autonomous cars Claudiu Pozna                
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7507360/
 
 Paper 6:An Autonomous Driving System for Unknown Environments Using a Unified Map View Document Inwook Shim
