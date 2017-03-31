@@ -2,7 +2,7 @@
 Base repository for COMP130 research journal
 
 ## Section 1
-
+SDV(Self Driving Vehicles) technology has come a long way since it's early beginnings in the 90's 
 
 
 
