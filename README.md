@@ -52,14 +52,43 @@ As with all technology, the higher prices model may be safer or better equipped 
 ## Paper 3:Self-driving cars and the law Nathan A. Greenblatt
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7419800/
 
+"2015 lawsuit against Ford, GM, and Toyota accused the companies of “hawking vehicles that are vulnerable to hackers who could hypothetically wrest control of essential functions such as brakes and steering.” Meaning that hackers could easily turn the car into a weapon
+
+GM's ignition-switch recall cost the company US 7 billion. For at least some autonomous-car defects, however, the recall could take the form of a software patch delivered wirelessly and inexpensively. Lowering the chance of recalls not being carried out and defects going on to cause harm. 
+
+"THERE's A REASON to speed the rollout of autonomous vehicles. By replacing error-prone human drivers, autonomous driving technology can potentially save 30,000 lives each year in the United States alone. It can annually prevent 5 million accidents and 2 million injuries, conserve 7 billion liters of fuel, and save so many hundreds of billions of dollars in lost productivity and accident-related costs that the figures are beyond comprehension. That's because computer drivers are in principle fundamentally safer drivers. They never text, do their makeup, or fall asleep at the wheel. (Human error, in contrast, causes roughly 93 percent of crashes.) Robo-drivers can have 360-degree vision, and thanks to lidar, radar, and ultrasonic sensors, they can see through fog and in the dark."
+
+"Computer drivers can have “telepathy”: A computer driver could let another computer driver know that it is considering changing lanes before making the decision to do so. It could communicate with traffic lights to minimize wait times at intersections and optimize traffic flow."
+
 ## Paper 4:Self-Driving Cars and the Urban Challenge Chris Urmson
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4475861/
+
+In the United States, over 42,000 people are killed and over 2.7 million people are injured each year1
+
+"Maps also provide important contextual information. Consider figure 2a; without any context, the two vehicles appear to be on a collision course. Given context (see figure 2b), we can safely assume that one of the vehicles is just making a lane change and that nothing untoward is about to happen. Boss uses a model of the nearby roads in much the same way to anticipate and reason about other vehicles' movements."
+
+"For individuals who have lost their driving privilege owing to age or disability, autonomous vehicles will remove the spatial barriers limiting them from interacting with family, friends, and the community."
+
+"Only vehicles would be on the course, and they had to be midsized cars or larger. This removed pedestrians and bicycles from the scope."
+
 
 ## Paper 5:Issues about autonomous cars Claudiu Pozna                
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7507360/
 
+"Our proposed solution to this issue is to acquire new knowledges. We consider that the locomotion is a source of experience which can be transformed in knowledges using learning technics. Once again the human driver example is follow. Starting with a basic collection of driving behaviors the human driving will acquire new skills using its experience."
+
+"the second level mission is to solve situations which are probable but there are not anticipated by the previous level (a pedestrian which cross the road, an illegally maneuver of another driver etc.)"
+
+"The tactical level will trigger a particular behavior in order to solve a particular locomotion problem."
+
 ## Paper 6:An Autonomous Driving System for Unknown Environments Using a Unified Map View Document Inwook Shim
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7046370/
 
+Table 1 states that it can see a person upto 97m away
+Very maths heavy 
+Makes it safer by having objects that might not cause an immediate threat be taken into account. 
+
 ## Paper 7:First Person Trolley Problem: Evaluation of Drivers' Ethical Decisions in a Driving Simulator
 http://delivery.acm.org.ezproxy.falmouth.ac.uk/10.1145/3010000/3004336/p117-frison.pdf?ip=193.61.64.8&id=3004336&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EEAA225A8AB01C582%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=727941429&CFTOKEN=73815547&__acm__=1490977716_858b57fdc01d85585787b0565d9ada65
+
+Used humans to test the trolley dilemma and used that data to propose 
