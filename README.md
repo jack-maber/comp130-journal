@@ -1,8 +1,10 @@
 # comp130-journal
 Base repository for COMP130 research journal
 
-## Section 1
-SDV(Self Driving Vehicles) technology has come a long way since it's early beginnings in the 90's 
+[] are used to denote the sourced paper with the number corresponding to the paper in the source list.
+
+## Section 1 - Introduction
+SDV(Self Driving Vehicles) technology has come a long way since it's early beginnings in the 90's, with teams such as ARGO and Navlab demonstrating "thousands of kilometres of highway driving at speeds up to 130 kph with normal traffic" [4], and although this may sound very much like what current SDV's are capable of, the technology used was all far too large and took up most of the room in the car that could be used to possibly seat passengers,  and the route the cars took were pre-planned with "highly accurate GPS way points" so this sort of test doesn't really have any sort of practicality in the real world, and was more used to show that the technology could work. However, thanks however to the continued miniaturisation of technology and the use of new technologies such as ultra high resolution cameras that can help spot pedestrians up to 97 meters away [6], (which can far outstrip that of some road users), SDV's are now something that is available to the general public, thanks in no small part to Tesla, who in 2015 allowed it's users to utilize the experimental "Autopilot" mode [3], and as such many other companies such as Google and the car giant Toyota started to invest and develop in SDV technology, but this sudden development didn't come without it's critiques, as the normal person and academics alike started to ask, can you program a SDV to have acceptable ethics?, and who is at fault when the vehicle makes a mistake?
 
 
 
@@ -49,7 +51,7 @@ Should it kill an old person and spare a child, but the child may be taller than
 
 As with all technology, the higher prices model may be safer or better equipped than the lower priced model, causing classist roads, where the lower tier may be more dangerous. "“speed hierarchy”"
 
-## Paper 3:Self-driving cars and the law Nathan A. Greenblatt
+## Paper 3:Self-driving cars and the law Nathan A. Greenblatt - cited
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7419800/
 
 "2015 lawsuit against Ford, GM, and Toyota accused the companies of “hawking vehicles that are vulnerable to hackers who could hypothetically wrest control of essential functions such as brakes and steering.” Meaning that hackers could easily turn the car into a weapon
@@ -60,7 +62,7 @@ GM's ignition-switch recall cost the company US 7 billion. For at least some aut
 
 "Computer drivers can have “telepathy”: A computer driver could let another computer driver know that it is considering changing lanes before making the decision to do so. It could communicate with traffic lights to minimize wait times at intersections and optimize traffic flow."
 
-## Paper 4:Self-Driving Cars and the Urban Challenge Chris Urmson
+## Paper 4:Self-Driving Cars and the Urban Challenge Chris Urmson - cited
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4475861/
 
 In the United States, over 42,000 people are killed and over 2.7 million people are injured each year1
@@ -81,7 +83,7 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7507360/
 
 "The tactical level will trigger a particular behavior in order to solve a particular locomotion problem."
 
-## Paper 6:An Autonomous Driving System for Unknown Environments Using a Unified Map View Document Inwook Shim
+## Paper 6:An Autonomous Driving System for Unknown Environments Using a Unified Map View Document Inwook Shim - 6
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7046370/
 
 Table 1 states that it can see a person upto 97m away
