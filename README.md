@@ -20,15 +20,6 @@ To conclude, all of the sources I have covered here do lend something to the con
 
 
 
-
-
-
-
-
-
-
-
-
 # Sources
 ## Paper 1: Can you program ethics into a self-driving car? Noah J. Goodall - cited
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7473149/
@@ -51,4 +42,3 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7046370/
 ## Paper 7:First Person Trolley Problem: Evaluation of Drivers' Ethical Decisions in a Driving Simulator - cited
 http://delivery.acm.org.ezproxy.falmouth.ac.uk/10.1145/3010000/3004336/p117-frison.pdf?ip=193.61.64.8&id=3004336&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EEAA225A8AB01C582%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=727941429&CFTOKEN=73815547&__acm__=1490977716_858b57fdc01d85585787b0565d9ada65
 
-Used humans to test the trolley dilemma and used that data to propose 
