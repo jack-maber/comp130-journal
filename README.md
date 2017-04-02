@@ -7,10 +7,10 @@ Base repository for COMP130 research journal
 SDV(Self Driving Vehicles) technology has come a long way since it's early beginnings in the 90's, with teams such as ARGO and Navlab demonstrating "thousands of kilometres of highway driving at speeds up to 130 kph with normal traffic" [4], and although this may sound very much like what current SDV's are capable of, the technology used was all far too large and took up most of the room in the car that could be used to possibly seat passengers,  and the route the cars took were pre-planned with "highly accurate GPS way points" so this sort of test doesn't really have any sort of practicality in the real world, and was more used to show that the technology could work. However, thanks however to the continued miniaturisation of technology and the use of new technologies such as ultra high resolution cameras that can help spot pedestrians up to 97 meters away [6], (which can far outstrip that of some road users), SDV's are now something that is available to the general public, thanks in no small part to Tesla, who in 2015 allowed it's users to utilise the experimental "Autopilot" mode [3], and as such many other companies such as Google and the car giant Toyota started to invest and develop in SDV technology, but this sudden development didn't come without it's critiques, as the normal person and academics alike started to ask, can you program a SDV to have acceptable ethics?, and who is at fault when the vehicle makes a mistake?
 
 ## Section 2 - The Problems
-As with any problem, there is a good outcome and a bad outcome, but what about the problems where there is no good outcome, this kind of problem is normally shown with the age old "Trolley" Problem where "in which a trolley is threatening to collide with unsuspecting children and the only way to stop it is to throw a fat man over the side of a bridge and onto the track's switch" [1] and as humans, we'll take many factors and our own morals into making this decision, where every individual's answer will be different, where as "because computer programs take things quite literally", as paper 1 puts it, SDV's don't have the luxury of a human brain at their disposal, paper one also discusses that there have been many experiments and "substantial" literature on the subject, with paper 7 being one of them, where they ran a simulation of the "Trolley" problem and made test subjects pick an option depending on scenario, these included hitting once child, several children and their best friend, and then changed other factors such as their chance of survival, and obviously as the chance increased, they would pick to risk their life and save the other party over their own.People also seemed to pick saving children over old people by quite a surprising margin, which is something that another paper brought up, paper 2 brings up this with the situation of 2 old people and child crossing the road and the car can't dodge either, this is another moral dilemma that would the driver of a normal car would make based on their own morals and ethics, but what about an SDV? As discussed before, they can't decide on their own, so a programmer must make this decision by picking which is the option SDV will pick, so in a fatal collision, who is at fault and who will take the brunt of the aftermath?
+As with any problem, there is a good outcome and a bad outcome, but what about the problems where there is no good outcome, this kind of problem is normally shown with the age old "Trolley" Problem where "in which a trolley is threatening to collide with unsuspecting children and the only way to stop it is to throw a fat man over the side of a bridge and onto the track's switch" [1] and as humans, we'll take many factors and our own morals into making this decision, where every individual's answer will be different, where as "because computer programs take things quite literally", as paper 1 puts it, SDV's don't have the luxury of a human brain at their disposal, paper one also discusses that there have been many experiments and "substantial" literature on the subject, with paper 7 being one of them, where they ran a simulation of the "Trolley" problem and made test subjects pick an option depending on scenario, these included hitting once child, several children and their best friend, and then changed other factors such as their chance of survival, and obviously as the chance increased, they would pick to risk their life and save the other party over their own. People also seemed to pick saving children over old people by quite a surprising margin, which is something that another paper brought up, paper 2 brings up this with the situation of 2 old people and child crossing the road and the car can't dodge either, this is another moral dilemma that would the driver of a normal car would make based on their own morals and ethics, but what about an SDV? As discussed before, they can't decide on their own, so a programmer must make this decision by picking which is the option SDV will pick, so in a fatal collision, who is at fault and who will take the brunt of the aftermath?
 
-## Section 3 - The Programmers or driver, who is at fault?
-
+## Section 3 - The Programmer or Driver, who is at fault?
+Nearly all of the papers that I read discussed the section title in some way, paper 5 has quite an interesting view on the subject as it proposes a soloution to the problem where by the SDV learns and changse it's actions based on the inputs of the driver when it isn't "Autopilot" mode 
 
 Paper 5, the car should learn from the human
 US law would put blame onto automaker anyway
@@ -67,7 +67,7 @@ GM's ignition-switch recall cost the company US 7 billion. For at least some aut
 ## Paper 4:Self-Driving Cars and the Urban Challenge Chris Urmson - cited
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4475861/
 
-In the United States, over 42,000 people are killed and over 2.7 million people are injured each year1
+In the United States, over 42,000 people are killed and over 2.7 million people are injured each year
 
 "Maps also provide important contextual information. Consider figure 2a; without any context, the two vehicles appear to be on a collision course. Given context (see figure 2b), we can safely assume that one of the vehicles is just making a lane change and that nothing untoward is about to happen. Boss uses a model of the nearby roads in much the same way to anticipate and reason about other vehicles' movements."
 
@@ -76,7 +76,7 @@ In the United States, over 42,000 people are killed and over 2.7 million people 
 "Only vehicles would be on the course, and they had to be midsized cars or larger. This removed pedestrians and bicycles from the scope."
 
 
-## Paper 5:Issues about autonomous cars Claudiu Pozna                
+## Paper 5:Issues about autonomous cars Claudiu Pozna - cited            
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7507360/
 
 "Our proposed solution to this issue is to acquire new knowledges. We consider that the locomotion is a source of experience which can be transformed in knowledges using learning technics. Once again the human driver example is follow. Starting with a basic collection of driving behaviors the human driving will acquire new skills using its experience."
@@ -85,14 +85,14 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7507360/
 
 "The tactical level will trigger a particular behavior in order to solve a particular locomotion problem."
 
-## Paper 6:An Autonomous Driving System for Unknown Environments Using a Unified Map View Document Inwook Shim - 6
+## Paper 6:An Autonomous Driving System for Unknown Environments Using a Unified Map View Document Inwook Shim - cited
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7046370/
 
 Table 1 states that it can see a person upto 97m away
 Very maths heavy 
 Makes it safer by having objects that might not cause an immediate threat be taken into account. 
 
-## Paper 7:First Person Trolley Problem: Evaluation of Drivers' Ethical Decisions in a Driving Simulator
+## Paper 7:First Person Trolley Problem: Evaluation of Drivers' Ethical Decisions in a Driving Simulator - cited
 http://delivery.acm.org.ezproxy.falmouth.ac.uk/10.1145/3010000/3004336/p117-frison.pdf?ip=193.61.64.8&id=3004336&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EEAA225A8AB01C582%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=727941429&CFTOKEN=73815547&__acm__=1490977716_858b57fdc01d85585787b0565d9ada65
 
 Used humans to test the trolley dilemma and used that data to propose 
